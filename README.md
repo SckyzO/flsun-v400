@@ -131,3 +131,4 @@ sudo mv /home/pi/KlipperScreen-Flsun-Speeder-Pad /home/pi/KlipperScreen
 cd ~/KlipperScreen
 ./scripts/KlipperScreen-install.sh
 ```
+
